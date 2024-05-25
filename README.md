@@ -90,6 +90,4 @@ The robustness of deepfake detectors against adversarial attacks should be inves
 7. Hou, Y., Guo, Q., Huang, Y., Xie, X., Ma, L., & Zhao, J. (2023). Evading deepfake detectors via adversarial statistical consistency. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 12271-12280).
 8. Li, J., Li, D., Xiong, C., & Hoi, S. (2022, June). Blip: Bootstrapping language-image pre-training for unified vision-language understanding and generation. In International conference on machine learning (pp. 12888-12900). PMLR.
 
-## Acknowledgements
 
-This project was guided by the coursework and faculty at the Department of Computer Engineering. Special thanks to the authors of the referenced papers and the community contributing to deepfake detection research.
