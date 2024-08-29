@@ -21,7 +21,7 @@
 
 ## Project Overview
 
-This repository contains the final project for the CMPE593 course, focused on deepfake detection using various machine learning and deep learning techniques. The goal is to compare different methods for detecting deepfakes and evaluate their effectiveness across different datasets.
+This repository is focused on deepfake detection using various machine learning and deep learning techniques. The goal is to compare different methods for detecting deepfakes and evaluate their effectiveness across different datasets.
 
 ## Problem Definition
 
