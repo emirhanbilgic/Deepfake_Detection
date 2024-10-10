@@ -1,6 +1,6 @@
 # Deepfake Detection
 
-**Project by: Emirhan Bilgiç**
+**Emirhan Bilgiç**
 
 **Date: May 2024**
 
